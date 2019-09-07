@@ -14,7 +14,7 @@ class Shoe
   end 
   
   if cobble 
-    :condition => 'new'
+    Shoe.condition  = 'new'
   end 
   
 end 
