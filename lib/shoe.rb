@@ -14,7 +14,7 @@ class Shoe
   end 
   
   if cobble 
-    Shoe.condition  = 'new'
+    condition  = 'new'
   end 
   
 end 
